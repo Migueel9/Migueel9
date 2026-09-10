@@ -1,11 +1,13 @@
-# Miguel-Angel-Martinez-Bellido
-# 👋 Hola, soy Miguel
-<p align="center">
+# 👋 Bienvenidos, me llamo Miguel
+### 💻 Técnico Informático Junior en Sistemas, Redes y Ciberseguridad <p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=Miguel&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
 </p>
 
-🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)  
-🖥️ Interesado en soporte técnico, administración de sistemas y redes  
+🎓 Estudiante de Administración de Sistemas Informáticos en Red (ASIR) 
+
+🛡️ Estudiante activo de Ciberseguridad, siempre aprendiendo sobre vulnerabilidades y defensa ética.
+
 📍 Barcelona
 
 ## 🚀 Formación técnica
@@ -27,4 +29,7 @@
 ---
 
 🎯 Interesado en desarrollarme profesionalmente en el área de  
-💻 **Soporte IT** y 🛠️ **Administración de Sistemas**
+
+💻 **Ciberseguridad**
+
+🛠️ **Administración de Sistemas y redes**
