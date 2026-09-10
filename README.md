@@ -32,4 +32,4 @@
 
 💻 **Ciberseguridad**
 
-🛠️ **Administración de Sistemas y redes**
+🛠️ **Administración de Sistemas y Redes**
